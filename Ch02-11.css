@@ -1,0 +1,8 @@
+nav,footer    {
+       border:dashed 2px;
+       text-align: center
+     }
+aside  {
+       float:right;
+       background:#ebe0ed;
+     }
